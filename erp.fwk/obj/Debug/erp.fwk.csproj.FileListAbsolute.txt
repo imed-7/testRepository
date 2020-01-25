@@ -1,0 +1,87 @@
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ERP-Solution\erp.fwk\bin\Debug\erp.fwk.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ERP-Solution\erp.fwk\bin\Debug\erp.fwk.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ERP-Solution\erp.fwk\bin\Debug\System.Web.Mvc.Extensions.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ERP-Solution\erp.fwk\bin\Debug\System.Web.Mvc.Extensions.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ERP-Solution\erp.fwk\obj\Debug\erp.fwk.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ERP-Solution\erp.fwk\obj\Debug\erp.fwk.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ERP-Solution\erp.fwk\obj\Debug\erp.fwk.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ERP-Solution\erp.fwk\bin\Debug\erp.fwk.dll.config
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ERP-Solution\erp.fwk\bin\Debug\DataSource.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ERP-Solution\erp.fwk\bin\Debug\EntityFramework.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ERP-Solution\erp.fwk\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ERP-Solution\erp.fwk\bin\Debug\DataSource.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ERP-Solution\erp.fwk\bin\Debug\EntityFramework.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\ERP-Solution\erp.fwk\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CYBERESA 02\Desktop\new\ERP-Solution\erp.fwk\bin\Debug\erp.fwk.dll.config
+C:\Users\CYBERESA 02\Desktop\new\ERP-Solution\erp.fwk\bin\Debug\erp.fwk.dll
+C:\Users\CYBERESA 02\Desktop\new\ERP-Solution\erp.fwk\bin\Debug\erp.fwk.pdb
+C:\Users\CYBERESA 02\Desktop\new\ERP-Solution\erp.fwk\bin\Debug\DataSource.dll
+C:\Users\CYBERESA 02\Desktop\new\ERP-Solution\erp.fwk\bin\Debug\EntityFramework.dll
+C:\Users\CYBERESA 02\Desktop\new\ERP-Solution\erp.fwk\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CYBERESA 02\Desktop\new\ERP-Solution\erp.fwk\bin\Debug\System.Web.Mvc.Extensions.dll
+C:\Users\CYBERESA 02\Desktop\new\ERP-Solution\erp.fwk\bin\Debug\DataSource.pdb
+C:\Users\CYBERESA 02\Desktop\new\ERP-Solution\erp.fwk\bin\Debug\EntityFramework.xml
+C:\Users\CYBERESA 02\Desktop\new\ERP-Solution\erp.fwk\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CYBERESA 02\Desktop\new\ERP-Solution\erp.fwk\bin\Debug\System.Web.Mvc.Extensions.xml
+C:\Users\CYBERESA 02\Desktop\new\ERP-Solution\erp.fwk\obj\Debug\erp.fwk.csprojResolveAssemblyReference.cache
+C:\Users\CYBERESA 02\Desktop\new\ERP-Solution\erp.fwk\obj\Debug\erp.fwk.dll
+C:\Users\CYBERESA 02\Desktop\new\ERP-Solution\erp.fwk\obj\Debug\erp.fwk.pdb
+C:\Users\CYBERESA 02\Desktop\aaa\ERP-Solution\erp.fwk\bin\Debug\erp.fwk.dll.config
+C:\Users\CYBERESA 02\Desktop\aaa\ERP-Solution\erp.fwk\bin\Debug\erp.fwk.dll
+C:\Users\CYBERESA 02\Desktop\aaa\ERP-Solution\erp.fwk\bin\Debug\erp.fwk.pdb
+C:\Users\CYBERESA 02\Desktop\aaa\ERP-Solution\erp.fwk\bin\Debug\DataSource.dll
+C:\Users\CYBERESA 02\Desktop\aaa\ERP-Solution\erp.fwk\bin\Debug\EntityFramework.dll
+C:\Users\CYBERESA 02\Desktop\aaa\ERP-Solution\erp.fwk\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CYBERESA 02\Desktop\aaa\ERP-Solution\erp.fwk\bin\Debug\System.Web.Mvc.Extensions.dll
+C:\Users\CYBERESA 02\Desktop\aaa\ERP-Solution\erp.fwk\bin\Debug\DataSource.pdb
+C:\Users\CYBERESA 02\Desktop\aaa\ERP-Solution\erp.fwk\bin\Debug\EntityFramework.xml
+C:\Users\CYBERESA 02\Desktop\aaa\ERP-Solution\erp.fwk\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CYBERESA 02\Desktop\aaa\ERP-Solution\erp.fwk\bin\Debug\System.Web.Mvc.Extensions.xml
+C:\Users\CYBERESA 02\Desktop\aaa\ERP-Solution\erp.fwk\obj\Debug\erp.fwk.csprojResolveAssemblyReference.cache
+C:\Users\CYBERESA 02\Desktop\aaa\ERP-Solution\erp.fwk\obj\Debug\erp.fwk.dll
+C:\Users\CYBERESA 02\Desktop\aaa\ERP-Solution\erp.fwk\obj\Debug\erp.fwk.pdb
+C:\Users\Imed\Desktop\ERP-Solution\erp.fwk\obj\Debug\erp.fwk.csprojResolveAssemblyReference.cache
+C:\Users\Imed\Desktop\ERP-Solution\erp.fwk\obj\Debug\erp.fwk.dll
+C:\Users\Imed\Desktop\ERP-Solution\erp.fwk\obj\Debug\erp.fwk.pdb
+C:\Users\Imed\Desktop\ERP-Solution\erp.fwk\bin\Debug\erp.fwk.dll.config
+C:\Users\Imed\Desktop\ERP-Solution\erp.fwk\bin\Debug\erp.fwk.dll
+C:\Users\Imed\Desktop\ERP-Solution\erp.fwk\bin\Debug\erp.fwk.pdb
+C:\Users\Imed\Desktop\ERP-Solution\erp.fwk\bin\Debug\DataSource.dll
+C:\Users\Imed\Desktop\ERP-Solution\erp.fwk\bin\Debug\EntityFramework.dll
+C:\Users\Imed\Desktop\ERP-Solution\erp.fwk\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Imed\Desktop\ERP-Solution\erp.fwk\bin\Debug\System.Web.Mvc.Extensions.dll
+C:\Users\Imed\Desktop\ERP-Solution\erp.fwk\bin\Debug\DataSource.pdb
+C:\Users\Imed\Desktop\ERP-Solution\erp.fwk\bin\Debug\EntityFramework.xml
+C:\Users\Imed\Desktop\ERP-Solution\erp.fwk\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Imed\Desktop\ERP-Solution\erp.fwk\bin\Debug\System.Web.Mvc.Extensions.xml
+C:\Users\Imed\Desktop\ppp\erp.fwk\bin\Debug\erp.fwk.dll.config
+C:\Users\Imed\Desktop\ppp\erp.fwk\bin\Debug\erp.fwk.dll
+C:\Users\Imed\Desktop\ppp\erp.fwk\bin\Debug\erp.fwk.pdb
+C:\Users\Imed\Desktop\ppp\erp.fwk\bin\Debug\DataSource.dll
+C:\Users\Imed\Desktop\ppp\erp.fwk\bin\Debug\EntityFramework.dll
+C:\Users\Imed\Desktop\ppp\erp.fwk\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Imed\Desktop\ppp\erp.fwk\bin\Debug\System.Web.Mvc.Extensions.dll
+C:\Users\Imed\Desktop\ppp\erp.fwk\bin\Debug\DataSource.pdb
+C:\Users\Imed\Desktop\ppp\erp.fwk\bin\Debug\EntityFramework.xml
+C:\Users\Imed\Desktop\ppp\erp.fwk\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Imed\Desktop\ppp\erp.fwk\bin\Debug\System.Web.Mvc.Extensions.xml
+C:\Users\Imed\Desktop\ppp\erp.fwk\obj\Debug\erp.fwk.csprojResolveAssemblyReference.cache
+C:\Users\Imed\Desktop\ppp\erp.fwk\obj\Debug\erp.fwk.dll
+C:\Users\Imed\Desktop\ppp\erp.fwk\obj\Debug\erp.fwk.pdb
+C:\Users\Imed\Desktop\ppp - Copie\erp.fwk\bin\Debug\erp.fwk.dll.config
+C:\Users\Imed\Desktop\ppp - Copie\erp.fwk\bin\Debug\erp.fwk.dll
+C:\Users\Imed\Desktop\ppp - Copie\erp.fwk\bin\Debug\erp.fwk.pdb
+C:\Users\Imed\Desktop\ppp - Copie\erp.fwk\bin\Debug\DataSource.dll
+C:\Users\Imed\Desktop\ppp - Copie\erp.fwk\bin\Debug\EntityFramework.dll
+C:\Users\Imed\Desktop\ppp - Copie\erp.fwk\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Imed\Desktop\ppp - Copie\erp.fwk\bin\Debug\System.Web.Mvc.Extensions.dll
+C:\Users\Imed\Desktop\ppp - Copie\erp.fwk\bin\Debug\DataSource.pdb
+C:\Users\Imed\Desktop\ppp - Copie\erp.fwk\bin\Debug\EntityFramework.xml
+C:\Users\Imed\Desktop\ppp - Copie\erp.fwk\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Imed\Desktop\ppp - Copie\erp.fwk\bin\Debug\System.Web.Mvc.Extensions.xml
+C:\Users\Imed\Desktop\ppp - Copie\erp.fwk\obj\Debug\erp.fwk.csprojResolveAssemblyReference.cache
+C:\Users\Imed\Desktop\ppp - Copie\erp.fwk\obj\Debug\erp.fwk.dll
+C:\Users\Imed\Desktop\ppp - Copie\erp.fwk\obj\Debug\erp.fwk.pdb
+C:\Users\Imed\Desktop\ppp - Copie\erp.fwk\bin\Debug\AutoMapper.dll
+C:\Users\Imed\Desktop\ppp - Copie\erp.fwk\bin\Debug\AutoMapper.pdb
+C:\Users\Imed\Desktop\ppp - Copie\erp.fwk\bin\Debug\AutoMapper.xml
